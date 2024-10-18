@@ -1,1 +1,1 @@
-<img width="95%" alt="Freya" src="https://github.com/user-attachments/assets/1a6971aa-b896-430c-95d8-443896e71a6d">
+<img width="1000%" alt="Ella" src="https://github.com/user-attachments/assets/af0c482f-5290-4f68-9612-9b7f02f1d849">
