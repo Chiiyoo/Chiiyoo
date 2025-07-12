@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Chiyo and I'm a campus boy at INSTIKI.</h2>
+<h2 align="center">Hi 👋! My name is Chiyo and I study at the INSTIKI campus.</h2>
 
 ###
 
